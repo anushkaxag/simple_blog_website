@@ -1,5 +1,5 @@
 # To run:
-- Locate to the location of the directory, where you forked the project
+- Clone the repository
 - Install Dependencies: ```npm install```
 - run: ```skaffold dev```
 
